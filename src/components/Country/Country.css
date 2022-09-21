@@ -1,0 +1,11 @@
+.country{
+    
+    margin: 20px;
+    padding: 10px;
+    background-color: cadetblue;
+    border-radius: 15px;
+    box-shadow: 4px 4px 3px 1px rgba(43, 43, 44, 0.2);
+}
+img{
+    height: 130px;
+}
